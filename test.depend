@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1495163756 source:g:\test_c\test\list.c
+	"list.h"
+	<malloc.h>
+	<stdlib.h>
+
+1495163809 g:\test_c\test\list.h
+
+1496214379 source:g:\test_c\test\main.c
+	"List.h"
+	<stdio.h>
+
