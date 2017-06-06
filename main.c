@@ -20,6 +20,5 @@ int main(void)
     num =  count_number_in_double_link(GClist);
     printf("list cnt:%d\n",num);
     print_double_link_node(GClist);
-    printf("Version:0.01\n");
     return 0;
 }
